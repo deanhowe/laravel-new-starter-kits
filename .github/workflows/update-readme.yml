@@ -24,7 +24,7 @@ jobs:
                     node-version: '18'
     
             -   name: Update README with Starter Kits
-                run: node update-readme.js
+                run: node ./.github/workflows/update-readme.js
     
             -   name: Commit and push if changed
                 run: |
