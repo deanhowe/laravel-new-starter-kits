@@ -17,15 +17,15 @@ jobs:
                 uses: actions/checkout@v3
                 with:
                     token: ${{ secrets.GITHUB_TOKEN }}
-
+    
             -   name: Set up Node.js
                 uses: actions/setup-node@v3
                 with:
                     node-version: '18'
-
+    
             -   name: Update README with Starter Kits
                 run: node update-readme.js
-
+    
             -   name: Commit and push if changed
                 run: |
                     git config --local user.email "action@github.com"
@@ -47,4 +47,4 @@ jobs:
                     # Force push to ensure README.md is always updated
                     git push --force origin HEAD:${{ github.ref }}
 
-        uses:
+
