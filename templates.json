@@ -1,9 +1,9 @@
 {
     "official": [{
-            "title": "React",
-            "package": "laravel/react-starter-kit",
-            "repo": "laravel/react-starter-kit"
-        },
+        "title": "React",
+        "package": "laravel/react-starter-kit",
+        "repo": "laravel/react-starter-kit"
+    },
         {
             "title": "Vue",
             "package": "laravel/vue-starter-kit",
@@ -15,75 +15,98 @@
             "repo": "laravel/livewire-starter-kit"
         }
     ],
-    "community": [{
-            "title": "Statamic",
-            "package": "statamic/statamic",
-            "repo": "statamic/statamic"
-        },
-        {
-            "title": "Cachet",
-            "package": "cachethq/cachet",
-            "repo": "cachethq/cachet"
-        },
-        {
-            "title": "Svelte",
-            "package": "oseughu/svelte-starter-kit",
-            "repo": "oseughu/svelte-starter-kit"
-        },
-        {
-            "title": "Wave",
-            "package": "devdojo/wave",
-            "repo": "thedevdojo/wave"
-        },
-        {
-            "title": "Genesis",
-            "package": "devdojo/genesis",
-            "repo": "thedevdojo/genesis"
-        },
-        {
-            "title": "Filament",
-            "package": "tnylea/filamentapp",
-            "repo": "tnylea/filamentapp"
-        },
-        {
-            "title": "Livewire Starter",
-            "package": "tnylea/livewire-starter",
-            "repo": "tnylea/livewire-starter"
-        },
-        {
-            "title": "Larasonic React",
-            "package": "shipfastlabs/larasonic-react",
-            "repo": "shipfastlabs/larasonic-react"
-        },
-        {
-            "title": "Larasonic Vue",
-            "package": "shipfastlabs/larasonic-vue",
-            "repo": "shipfastlabs/larasonic-vue"
-        },
-        {
-            "title": "TALL starter",
-            "package": "mortenebak/tallstarter",
-            "repo": "mortenebak/tallstarter"
-        },
-        {
-            "title": "Filament Zeus starters",
-            "package": "lara-zeus/zeus",
-            "repo": "lara-zeus/zeus"
-        },
-        {
-            "title": "Modern Livewire Starter Kit",
-            "package": "shipfastlabs/modern-livewire-starter-kit",
-            "repo": "shipfastlabs/modern-livewire-starter-kit"
-        },
-        {
-            "title": "Modern Vue Starter Kit",
-            "package": "shipfastlabs/modern-vue-starter-kit",
-            "repo": "shipfastlabs/modern-vue-starter-kit"
-        },
-        {
-            "title": "Modern React Starter Kit",
-            "package": "shipfastlabs/modern-react-starter-kit",
-            "repo": "shipfastlabs/modern-react-starter-kit"
-        }
-    ]
+    "community":
+    {
+        "livewire": [
+            {
+                "title": "Livewire Starter",
+                "package": "tnylea/livewire-starter",
+                "repo": "tnylea/livewire-starter"
+            },
+            {
+                "title": "TALL starter",
+                "package": "mortenebak/tallstarter",
+                "repo": "mortenebak/tallstarter"
+            },
+            {
+                "title": "Modern Livewire Starter Kit",
+                "package": "shipfastlabs/modern-livewire-starter-kit",
+                "repo": "shipfastlabs/modern-livewire-starter-kit"
+            }
+        ],
+        "react": [
+            {
+                "title": "Larasonic React",
+                "package": "shipfastlabs/larasonic-react",
+                "repo": "shipfastlabs/larasonic-react"
+            },
+            {
+                "title": "Modern React Starter Kit",
+                "package": "shipfastlabs/modern-react-starter-kit",
+                "repo": "shipfastlabs/modern-react-starter-kit"
+            }
+        ],
+        "vue": [
+            {
+                "title": "Larasonic Vue",
+                "package": "shipfastlabs/larasonic-vue",
+                "repo": "shipfastlabs/larasonic-vue"
+            },
+            {
+                "title": "Modern Vue Starter Kit",
+                "package": "shipfastlabs/modern-vue-starter-kit",
+                "repo": "shipfastlabs/modern-vue-starter-kit"
+            }
+        ],
+        "api": [
+            {
+                "title": "ExA",
+                "package": "wendellAdriel/laravel-exa",
+                "repo": "wendellAdriel/laravel-exa"
+            }
+        ],
+        "cms": [
+            {
+                "title": "Statamic",
+                "package": "statamic/statamic",
+                "repo": "statamic/statamic"
+            },
+            {
+                "title": "Svelte",
+                "package": "oseughu/svelte-starter-kit",
+                "repo": "oseughu/svelte-starter-kit"
+            },
+            {
+                "title": "Genesis",
+                "package": "devdojo/genesis",
+                "repo": "thedevdojo/genesis"
+            },
+            {
+                "title": "Filament",
+                "package": "tnylea/filamentapp",
+                "repo": "tnylea/filamentapp"
+            },
+            {
+                "title": "Filament Zeus starters",
+                "package": "lara-zeus/zeus",
+                "repo": "lara-zeus/zeus"
+            }
+        ],
+        "saas": [
+            {
+                "title": "Wave",
+                "stack": "Filament",
+                "package": "devdojo/wave",
+                "repo": "thedevdojo/wave"
+            }
+        ],
+        "other": [
+            {
+                "title": "Cachet",
+                "package": "cachethq/cachet",
+                "repo": "cachethq/cachet"
+            }
+        ]
+    }
+
 }
