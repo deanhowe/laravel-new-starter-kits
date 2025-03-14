@@ -3,7 +3,10 @@
         <h1>Awesome Laravel Starter Kits</h1>
         <strong>Find the best Starter Kits for Laravel here!</strong>
     </p>
+    <img src="./screenshot.png" alt="laravel new screenshot" width="100%" height="auto" />
 </div>
+
+
 
 Using the [Laravel installer](https://laravel.com/docs/installation#installing-php) developers can pass the `--using` flag to the `laravel new` command, and install any community starter template. Below is a list of the available templates.
 

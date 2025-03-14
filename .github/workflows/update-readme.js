@@ -108,7 +108,7 @@ async function updateReadme() {
     // Generate the formatted list
     let officialList = '';
     for (const kit of officialKits) {
-        officialList += `- [${kit.title}](https://github.com/${kit.repo}) - \`${kit.package}\` - 💿 ${formatNumber(kit.installs)} installs\n`;
+        officialList += `\n- [${kit.title}](https://github.com/${kit.repo}) - \`${kit.package}\` - 💿 ${formatNumber(kit.installs)} installs \n\n\`\`\`laravel new my-app --using=${kit.package}\`\`\`\n`;
     }
 
     // Replace placeholders in README
