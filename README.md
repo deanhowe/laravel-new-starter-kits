@@ -3,15 +3,26 @@
         <h1>Awesome Laravel Starter Kits</h1>
         <strong>Find the best Starter Kits for Laravel here!</strong>
     </p>
+    <img src="./screenshot.png" alt="laravel new screenshot" width="100%" height="auto" />
 </div>
+
+
 
 Using the [Laravel installer](https://laravel.com/docs/installation#installing-php) developers can pass the `--using` flag to the `laravel new` command, and install any community starter template. Below is a list of the available templates.
 
 ## Official Templates
 
-- [Livewire](https://github.com/laravel/livewire-starter-kit) - `laravel/livewire-starter-kit` - 💿 26,130 installs
-- [React](https://github.com/laravel/react-starter-kit) - `laravel/react-starter-kit` - 💿 25,225 installs
-- [Vue](https://github.com/laravel/vue-starter-kit) - `laravel/vue-starter-kit` - 💿 18,028 installs
+- [Livewire](https://github.com/laravel/livewire-starter-kit) - `laravel/livewire-starter-kit` - 💿 26,130 installs 
+
+```laravel new my-app --using=laravel/livewire-starter-kit```
+
+- [React](https://github.com/laravel/react-starter-kit) - `laravel/react-starter-kit` - 💿 25,225 installs 
+
+```laravel new my-app --using=laravel/react-starter-kit```
+
+- [Vue](https://github.com/laravel/vue-starter-kit) - `laravel/vue-starter-kit` - 💿 18,028 installs 
+
+```laravel new my-app --using=laravel/vue-starter-kit```
 
 ---
 
