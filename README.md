@@ -14,15 +14,21 @@ Using the [Laravel installer](https://laravel.com/docs/installation#installing-p
 
 - [Livewire](https://github.com/laravel/livewire-starter-kit) - `laravel/livewire-starter-kit` - 💿 26,130 installs 
 
-```laravel new my-app --using=laravel/livewire-starter-kit```
+```
+laravel new my-app --using=laravel/livewire-starter-kit
+```
 
 - [React](https://github.com/laravel/react-starter-kit) - `laravel/react-starter-kit` - 💿 25,225 installs 
 
-```laravel new my-app --using=laravel/react-starter-kit```
+```
+laravel new my-app --using=laravel/react-starter-kit
+```
 
 - [Vue](https://github.com/laravel/vue-starter-kit) - `laravel/vue-starter-kit` - 💿 18,028 installs 
 
-```laravel new my-app --using=laravel/vue-starter-kit```
+```
+laravel new my-app --using=laravel/vue-starter-kit
+```
 
 ---
 
