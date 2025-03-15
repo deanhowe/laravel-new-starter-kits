@@ -112,7 +112,7 @@ async function updateReadme() {
     }
 
     // Replace placeholders in README
-    const communityListLiveWire = await createCommunityLists(templates.community.livewire)
+    const communityListLivewire = await createCommunityLists(templates.community.livewire)
     const communityListReact = await createCommunityLists(templates.community.react)
     const communityListVue = await createCommunityLists(templates.community.vue)
     const communityListAPI = await createCommunityLists(templates.community.api)
@@ -132,15 +132,21 @@ async function updateReadme() {
     readme = readme.replace(/\[COMMUNITY_CMS_COMMUNITY\]/g, communityListCMSCommunity.trim());
     readme = readme.replace(/\[COMMUNITY_SAAS\]/g, communityListSAAS.trim());
     readme = readme.replace(/\[COMMUNITY_OTHER\]/g, communityListOther.trim());
-    readme = readme.replace(/\[COMMUNITY_LIVEWIRE\]/g, communityListLiveWire.trim());
+    readme = readme.replace(/\[COMMUNITY_LIVEWIRE\]/g, communityListLivewire.trim());
     readme = readme.replace(/\[COMMUNITY_REACT\]/g, communityListReact.trim());
     readme = readme.replace(/\[COMMUNITY_VUE\]/g, communityListVue.trim());
 
     console.log('Generated README content (excerpt):', readme.substring(0, 500) + '...');
     console.log('Official list generated:', officialList);
 
-    console.log('Community list generated:', communityListLiveWire);
-    console.log('CMS list generated:', communityListCMS);
+    console.log('Livewire list generated:', communityListLivewire);
+    console.log('React list generated:', communityListReact);
+    console.log('Vue list generated:', communityListVue);
+    console.log('API list generated:', communityListAPI);
+    console.log('Official CMS list generated:', communityListCMSOfficial);
+    console.log('Community CMS list generated:', communityListCMSCommunity);
+    console.log('SASS list generated:', communityListSAAS);
+    console.log('Misc. list generated:', communityListOther);
 
     // Write updated README
     fs.writeFileSync('README.md', readme);
