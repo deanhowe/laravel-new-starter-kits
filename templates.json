@@ -107,6 +107,11 @@
                 "repo": "cachethq/cachet"
             },
             {
+                "title": "Fission",
+                "package": "joshcirre/fission",
+                "repo": "joshcirre/fission"
+            },
+            {
                 "title": "Laravel AdminTW",
                 "package": "dcblogdev/laravel-admintw",
                 "repo": "dcblogdev/laravel-admintw"
