@@ -61,7 +61,7 @@ async function createCommunityLists(communityListArray) {
     // Generate the formatted list
     let communityListString = '';
     for (const kit of communityKits) {
-        communityListString += `- [${kit.title}](https://github.com/${kit.repo}) - \`${kit.package}\` - 💾 ${formatNumber(kit.installs)} installs\n`;
+        communityListString += `- [${kit.title}](https://github.com/${kit.repo}) - \`\`\`${kit.package}\`\`\` - 💾 ${formatNumber(kit.installs)} installs\n`;
     }
 
     return communityListString;
