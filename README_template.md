@@ -30,14 +30,14 @@ Using the [Laravel installer](https://laravel.com/docs/installation#installing-p
 ### Vue
 [COMMUNITY_VUE]
 
-### API
+### API Stater Kits
 [COMMUNITY_API]
 
-### CMS - Official Installs
+### CMS - Official Installers
 [COMMUNITY_CMS]
 
-### CMS - Community Installs/Enhancers
-[COMMUNITY_CMS_WRAPPERS]
+### CMS - Community Installers/Enhancers
+[COMMUNITY_CMS_EXTENDED]
 
 ### SAAS Stater Kits
 [COMMUNITY_SAAS]

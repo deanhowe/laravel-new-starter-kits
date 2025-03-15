@@ -70,7 +70,7 @@
                 "repo": "wendellAdriel/laravel-exa"
             }
         ],
-        "cms": [
+        "cms_official": [
             {
                 "title": "Statamic",
                 "package": "statamic/statamic",
@@ -85,7 +85,9 @@
                 "title": "Genesis",
                 "package": "devdojo/genesis",
                 "repo": "thedevdojo/genesis"
-            },
+            }
+        ],
+        "cms_community": [
             {
                 "title": "Filament",
                 "package": "tnylea/filamentapp",

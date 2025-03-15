@@ -116,7 +116,8 @@ async function updateReadme() {
     const communityListReact = await createCommunityLists(templates.community.react)
     const communityListVue = await createCommunityLists(templates.community.vue)
     const communityListAPI = await createCommunityLists(templates.community.api)
-    const communityListCMS = await createCommunityLists(templates.community.cms)
+    const communityListCMSOfficial = await createCommunityLists(templates.community.cms_official)
+    const communityListCMSCommunity = await createCommunityLists(templates.community.cms_community)
     const communityListSAAS = await createCommunityLists(templates.community.saas)
     const communityListOther = await createCommunityLists(templates.community.other)
 
@@ -127,7 +128,8 @@ async function updateReadme() {
     readme = readme.replace(/\[OFFICIAL\]/g, officialList.trim());
 
     readme = readme.replace(/\[COMMUNITY_API\]/g, communityListAPI.trim());
-    readme = readme.replace(/\[COMMUNITY_CMS\]/g, communityListCMS.trim());
+    readme = readme.replace(/\[COMMUNITY_CMS_OFFICIAL\]/g, communityListCMSOfficial.trim());
+    readme = readme.replace(/\[COMMUNITY_CMS_EXTENDED\]/g, communityListCMSCommunity.trim());
     readme = readme.replace(/\[COMMUNITY_SAAS\]/g, communityListSAAS.trim());
     readme = readme.replace(/\[COMMUNITY_OTHER\]/g, communityListOther.trim());
     readme = readme.replace(/\[COMMUNITY_LIVEWIRE\]/g, communityListLiveWire.trim());
