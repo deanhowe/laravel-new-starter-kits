@@ -10,13 +10,18 @@
 
 Using the [Laravel installer](https://laravel.com/docs/installation#installing-php) developers can pass the `--using` flag to the `laravel new` command, and install any community starter template. Below is a list of the available templates.
 
-## Official Templates
+## Official Starter Kits
 
 [OFFICIAL]
 
 ---
 
-## Community Templates
+> [!IMPORTANT]
+> Be cautious when installing any starter. Be sure to do research and learn more about each project.
+
+---
+
+## Community Starter Kits
 
 ### Livewire
 [COMMUNITY_LIVEWIRE]
@@ -30,24 +35,25 @@ Using the [Laravel installer](https://laravel.com/docs/installation#installing-p
 ### API
 [COMMUNITY_API]
 
-### CMS
+### CMS - Official Installs
 [COMMUNITY_CMS]
 
-### SAAS
+### CMS - Community Installs/Enhancers
+[COMMUNITY_CMS_WRAPPERS]
+
+### SAAS Stater Kits
 [COMMUNITY_SAAS]
 
-### OTHER
+### Other Tools/Misc
 [COMMUNITY_OTHER]
 
 ---
 
 ## Submit Your Own Starter Kit
 
-If you have a starter kit that you would like to be added to this list, please add your starter kit under the `community` key in the [templates.json](templates.json) file, and submit a pull request. The starter kit will dynamically be added to the Readme inside of the Github Action.
+If you have a starter kit that you would like to be added to this list, please add your starter kit under the appropriate `community.<SECTION>` key in the [templates.json](templates.json) file, and submit a pull request.
+The starter kit will dynamically be added to the Readme inside of the Github Action.
 
 Check the **[Contributing Guide](CONTRIBUTING.md)** before sending your Pull Request.
 
 ---
-
-> [!IMPORTANT]
-> Be cautious when installing any starter. Be sure to do research and learn more about each project.
