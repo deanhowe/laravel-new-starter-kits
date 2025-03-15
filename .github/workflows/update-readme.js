@@ -129,7 +129,7 @@ async function updateReadme() {
 
     readme = readme.replace(/\[COMMUNITY_API\]/g, communityListAPI.trim());
     readme = readme.replace(/\[COMMUNITY_CMS_OFFICIAL\]/g, communityListCMSOfficial.trim());
-    readme = readme.replace(/\[COMMUNITY_CMS_EXTENDED\]/g, communityListCMSCommunity.trim());
+    readme = readme.replace(/\[COMMUNITY_CMS_COMMUNITY\]/g, communityListCMSCommunity.trim());
     readme = readme.replace(/\[COMMUNITY_SAAS\]/g, communityListSAAS.trim());
     readme = readme.replace(/\[COMMUNITY_OTHER\]/g, communityListOther.trim());
     readme = readme.replace(/\[COMMUNITY_LIVEWIRE\]/g, communityListLiveWire.trim());

@@ -34,10 +34,10 @@ Using the [Laravel installer](https://laravel.com/docs/installation#installing-p
 [COMMUNITY_API]
 
 ### CMS - Official Installers
-[COMMUNITY_CMS]
+[COMMUNITY_CMS_OFFICIAL]
 
 ### CMS - Community Installers/Enhancers
-[COMMUNITY_CMS_EXTENDED]
+[COMMUNITY_CMS_COMMUNITY]
 
 ### SAAS Stater Kits
 [COMMUNITY_SAAS]
