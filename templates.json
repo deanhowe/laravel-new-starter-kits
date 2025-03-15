@@ -112,6 +112,13 @@
                 "repo": "dcblogdev/laravel-admintw"
             },
             {
+                "title": "Minimal Laravel Starter Kit",
+                "package": "vanyamil/laravel-starter-minimum",
+                "repo": "vanyamil/laravel-starter-minimum"
+
+
+            },
+            {
                 "title": "Tablar Starter Kit",
                 "package": "takielias/tablar-starter-kit",
                 "repo": "takielias/tablar-starter-kit"
