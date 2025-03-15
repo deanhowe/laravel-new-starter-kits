@@ -105,6 +105,11 @@
                 "title": "Cachet",
                 "package": "cachethq/cachet",
                 "repo": "cachethq/cachet"
+            },
+            {
+                "title": "Tablar Starter Kit",
+                "package": "takielias/tablar-starter-kit",
+                "repo": "takielias/tablar-starter-kit"
             }
         ]
     }
