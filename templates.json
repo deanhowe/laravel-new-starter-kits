@@ -107,6 +107,11 @@
                 "repo": "cachethq/cachet"
             },
             {
+                "title": "Laravel AdminTW",
+                "package": "dcblogdev/laravel-admintw",
+                "repo": "dcblogdev/laravel-admintw"
+            },
+            {
                 "title": "Tablar Starter Kit",
                 "package": "takielias/tablar-starter-kit",
                 "repo": "takielias/tablar-starter-kit"
