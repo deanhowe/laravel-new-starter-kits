@@ -42,6 +42,7 @@ laravel new my-app --using=laravel/vue-starter-kit
 ### React
 - [Modern React Starter Kit](https://github.com/shipfastlabs/modern-react-starter-kit) - `shipfastlabs/modern-react-starter-kit` - 💾 21 installs
 - [Larasonic React](https://github.com/shipfastlabs/larasonic-react) - `shipfastlabs/larasonic-react` - 💾 12 installs
+- [React JSX Starter Kit](https://github.com/YazidKHALDI/react-jsx-starter-kit) - `YazidKHALDI/react-jsx-starter-kit` - 💾 4 installs
 
 ### Vue
 - [Modern Vue Starter Kit](https://github.com/shipfastlabs/modern-vue-starter-kit) - `shipfastlabs/modern-vue-starter-kit` - 💾 18 installs
@@ -61,8 +62,14 @@ laravel new my-app --using=laravel/vue-starter-kit
 - [Wave](https://github.com/thedevdojo/wave) - `devdojo/wave` - 💾 298 installs
 
 ### OTHER
+- [Laravel AdminTW](https://github.com/dcblogdev/laravel-admintw) - `dcblogdev/laravel-admintw` - 💾 2,873 installs
 - [Cachet](https://github.com/cachethq/cachet) - `cachethq/cachet` - 💾 411 installs
+- [Fission](https://github.com/joshcirre/fission) - `joshcirre/fission` - 💾 17 installs
 - [Tablar Starter Kit](https://github.com/takielias/tablar-starter-kit) - `takielias/tablar-starter-kit` - 💾 5 installs
+- [Unstyled Blade Starter Kit](https://github.com/javdome/unstyled-blade-starter-kit) - `javdome/unstyled-blade-starter-kit` - 💾 3 installs
+- [Laravel Static Analysis Starter Kit](https://github.com/peterfox/laravel-static-analysis-starter-kit) - `peterfox/laravel-static-analysis-starter-kit` - 💾 2 installs
+- [Minimal Laravel Starter Kit](https://github.com/vanyamil/laravel-starter-minimum) - `vanyamil/laravel-starter-minimum` - 💾 1 installs
+- [Justd Starter Kit](https://github.com/justd/laravel) - `justdlabs/inertia.ts` - 💾 0 installs
 
 ---
 
