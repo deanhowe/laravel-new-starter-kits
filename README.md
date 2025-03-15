@@ -10,7 +10,7 @@
 
 Using the [Laravel installer](https://laravel.com/docs/installation#installing-php) developers can pass the `--using` flag to the `laravel new` command, and install any community starter template. Below is a list of the available templates.
 
-## Official Templates
+## Official Starter Kits
 
 - [Livewire](https://github.com/laravel/livewire-starter-kit) - `laravel/livewire-starter-kit` - 💿 26,493 installs 
 
@@ -32,7 +32,12 @@ laravel new my-app --using=laravel/vue-starter-kit
 
 ---
 
-## Community Templates
+> [!IMPORTANT]
+> Be cautious when installing any starter. Be sure to do research and learn more about each project.
+
+---
+
+## Community Starter Kits
 
 ### Livewire
 - [TALL starter](https://github.com/mortenebak/tallstarter) - `mortenebak/tallstarter` - 💾 86 installs
@@ -51,17 +56,20 @@ laravel new my-app --using=laravel/vue-starter-kit
 ### API
 - [ExA](https://github.com/wendellAdriel/laravel-exa) - `wendellAdriel/laravel-exa` - 💾 39 installs
 
-### CMS
+### CMS - Official Installs
 - [Statamic](https://github.com/statamic/statamic) - `statamic/statamic` - 💾 133,927 installs
 - [Genesis](https://github.com/thedevdojo/genesis) - `devdojo/genesis` - 💾 8,776 installs
 - [Filament Zeus starters](https://github.com/lara-zeus/zeus) - `lara-zeus/zeus` - 💾 779 installs
 - [Filament](https://github.com/tnylea/filamentapp) - `tnylea/filamentapp` - 💾 58 installs
 - [Svelte](https://github.com/oseughu/svelte-starter-kit) - `oseughu/svelte-starter-kit` - 💾 11 installs
 
-### SAAS
+### CMS - Community Installs/Enhancers
+[COMMUNITY_CMS_WRAPPERS]
+
+### SAAS Stater Kits
 - [Wave](https://github.com/thedevdojo/wave) - `devdojo/wave` - 💾 298 installs
 
-### OTHER
+### Other Tools/Misc
 - [Laravel AdminTW](https://github.com/dcblogdev/laravel-admintw) - `dcblogdev/laravel-admintw` - 💾 2,873 installs
 - [Cachet](https://github.com/cachethq/cachet) - `cachethq/cachet` - 💾 411 installs
 - [Fission](https://github.com/joshcirre/fission) - `joshcirre/fission` - 💾 17 installs
@@ -75,11 +83,9 @@ laravel new my-app --using=laravel/vue-starter-kit
 
 ## Submit Your Own Starter Kit
 
-If you have a starter kit that you would like to be added to this list, please add your starter kit under the `community` key in the [templates.json](templates.json) file, and submit a pull request. The starter kit will dynamically be added to the Readme inside of the Github Action.
+If you have a starter kit that you would like to be added to this list, please add your starter kit under the appropriate `community.<SECTION>` key in the [templates.json](templates.json) file, and submit a pull request.
+The starter kit will dynamically be added to the Readme inside of the Github Action.
 
 Check the **[Contributing Guide](CONTRIBUTING.md)** before sending your Pull Request.
 
 ---
-
-> [!IMPORTANT]
-> Be cautious when installing any starter. Be sure to do research and learn more about each project.
