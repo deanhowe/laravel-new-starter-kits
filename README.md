@@ -12,19 +12,19 @@ Using the [Laravel installer](https://laravel.com/docs/installation#installing-p
 
 ## Official Templates
 
-- [Livewire](https://github.com/laravel/livewire-starter-kit) - `laravel/livewire-starter-kit` - 💿 26,130 installs 
+- [Livewire](https://github.com/laravel/livewire-starter-kit) - `laravel/livewire-starter-kit` - 💿 26,493 installs 
 
 ```
 laravel new my-app --using=laravel/livewire-starter-kit
 ```
 
-- [React](https://github.com/laravel/react-starter-kit) - `laravel/react-starter-kit` - 💿 25,225 installs 
+- [React](https://github.com/laravel/react-starter-kit) - `laravel/react-starter-kit` - 💿 25,542 installs 
 
 ```
 laravel new my-app --using=laravel/react-starter-kit
 ```
 
-- [Vue](https://github.com/laravel/vue-starter-kit) - `laravel/vue-starter-kit` - 💿 18,028 installs 
+- [Vue](https://github.com/laravel/vue-starter-kit) - `laravel/vue-starter-kit` - 💿 18,388 installs 
 
 ```
 laravel new my-app --using=laravel/vue-starter-kit
@@ -35,33 +35,34 @@ laravel new my-app --using=laravel/vue-starter-kit
 ## Community Templates
 
 ### Livewire
-- [TALL starter](https://github.com/mortenebak/tallstarter) - `mortenebak/tallstarter` - 💾 72 installs
-- [Modern Livewire Starter Kit](https://github.com/shipfastlabs/modern-livewire-starter-kit) - `shipfastlabs/modern-livewire-starter-kit` - 💾 11 installs
+- [TALL starter](https://github.com/mortenebak/tallstarter) - `mortenebak/tallstarter` - 💾 86 installs
+- [Modern Livewire Starter Kit](https://github.com/shipfastlabs/modern-livewire-starter-kit) - `shipfastlabs/modern-livewire-starter-kit` - 💾 13 installs
 - [Livewire Starter](https://github.com/tnylea/livewire-starter) - `tnylea/livewire-starter` - 💾 3 installs
 
 ### React
-- [Modern React Starter Kit](https://github.com/shipfastlabs/modern-react-starter-kit) - `shipfastlabs/modern-react-starter-kit` - 💾 17 installs
-- [Larasonic React](https://github.com/shipfastlabs/larasonic-react) - `shipfastlabs/larasonic-react` - 💾 10 installs
+- [Modern React Starter Kit](https://github.com/shipfastlabs/modern-react-starter-kit) - `shipfastlabs/modern-react-starter-kit` - 💾 21 installs
+- [Larasonic React](https://github.com/shipfastlabs/larasonic-react) - `shipfastlabs/larasonic-react` - 💾 12 installs
 
 ### Vue
-- [Modern Vue Starter Kit](https://github.com/shipfastlabs/modern-vue-starter-kit) - `shipfastlabs/modern-vue-starter-kit` - 💾 17 installs
-- [Larasonic Vue](https://github.com/shipfastlabs/larasonic-vue) - `shipfastlabs/larasonic-vue` - 💾 15 installs
+- [Modern Vue Starter Kit](https://github.com/shipfastlabs/modern-vue-starter-kit) - `shipfastlabs/modern-vue-starter-kit` - 💾 18 installs
+- [Larasonic Vue](https://github.com/shipfastlabs/larasonic-vue) - `shipfastlabs/larasonic-vue` - 💾 17 installs
 
 ### API
 - [ExA](https://github.com/wendellAdriel/laravel-exa) - `wendellAdriel/laravel-exa` - 💾 39 installs
 
 ### CMS
-- [Statamic](https://github.com/statamic/statamic) - `statamic/statamic` - 💾 133,835 installs
-- [Genesis](https://github.com/thedevdojo/genesis) - `devdojo/genesis` - 💾 8,772 installs
-- [Filament Zeus starters](https://github.com/lara-zeus/zeus) - `lara-zeus/zeus` - 💾 778 installs
-- [Filament](https://github.com/tnylea/filamentapp) - `tnylea/filamentapp` - 💾 42 installs
-- [Svelte](https://github.com/oseughu/svelte-starter-kit) - `oseughu/svelte-starter-kit` - 💾 9 installs
+- [Statamic](https://github.com/statamic/statamic) - `statamic/statamic` - 💾 133,927 installs
+- [Genesis](https://github.com/thedevdojo/genesis) - `devdojo/genesis` - 💾 8,776 installs
+- [Filament Zeus starters](https://github.com/lara-zeus/zeus) - `lara-zeus/zeus` - 💾 779 installs
+- [Filament](https://github.com/tnylea/filamentapp) - `tnylea/filamentapp` - 💾 58 installs
+- [Svelte](https://github.com/oseughu/svelte-starter-kit) - `oseughu/svelte-starter-kit` - 💾 11 installs
 
 ### SAAS
-- [Wave](https://github.com/thedevdojo/wave) - `devdojo/wave` - 💾 270 installs
+- [Wave](https://github.com/thedevdojo/wave) - `devdojo/wave` - 💾 298 installs
 
 ### OTHER
-- [Cachet](https://github.com/cachethq/cachet) - `cachethq/cachet` - 💾 407 installs
+- [Cachet](https://github.com/cachethq/cachet) - `cachethq/cachet` - 💾 411 installs
+- [Tablar Starter Kit](https://github.com/takielias/tablar-starter-kit) - `takielias/tablar-starter-kit` - 💾 5 installs
 
 ---
 
