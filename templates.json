@@ -127,6 +127,11 @@
                 "repo": "dcblogdev/laravel-admintw"
             },
             {
+                "title": "Laravel Static Analysis Starter Kit",
+                "package": "peterfox/laravel-static-analysis-starter-kit",
+                "repo": "peterfox/laravel-static-analysis-starter-kit"
+            },
+            {
                 "title": "Minimal Laravel Starter Kit",
                 "package": "vanyamil/laravel-starter-minimum",
                 "repo": "vanyamil/laravel-starter-minimum"
