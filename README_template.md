@@ -16,6 +16,8 @@ Using the [Laravel installer](https://laravel.com/docs/installation#installing-p
 
 [OFFICIAL]
 
+---
+
 ## Community Starter Kits
 
 > [!IMPORTANT]
@@ -29,6 +31,8 @@ Using the [Laravel installer](https://laravel.com/docs/installation#installing-p
 
 ### Vue
 [COMMUNITY_VUE]
+
+---
 
 ### API Stater Kits
 [COMMUNITY_API]
