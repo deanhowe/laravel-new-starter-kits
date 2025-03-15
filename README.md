@@ -6,9 +6,11 @@
     <img src="./screenshot.png" alt="laravel new screenshot" width="100%" height="auto" />
 </div>
 
-
+---
 
 Using the [Laravel installer](https://laravel.com/docs/installation#installing-php) developers can pass the `--using` flag to the `laravel new` command, and install any community starter template. Below is a list of the available templates.
+
+---
 
 ## Official Starter Kits
 
@@ -30,14 +32,10 @@ laravel new my-app --using=laravel/react-starter-kit
 laravel new my-app --using=laravel/vue-starter-kit
 ```
 
----
+## Community Starter Kits
 
 > [!IMPORTANT]
 > Be cautious when installing any starter. Be sure to do research and learn more about each project.
-
----
-
-## Community Starter Kits
 
 ### Livewire
 - [TALL starter](https://github.com/mortenebak/tallstarter) - `mortenebak/tallstarter` - 💾 86 installs
@@ -53,18 +51,17 @@ laravel new my-app --using=laravel/vue-starter-kit
 - [Modern Vue Starter Kit](https://github.com/shipfastlabs/modern-vue-starter-kit) - `shipfastlabs/modern-vue-starter-kit` - 💾 18 installs
 - [Larasonic Vue](https://github.com/shipfastlabs/larasonic-vue) - `shipfastlabs/larasonic-vue` - 💾 17 installs
 
-### API
+### API Stater Kits
 - [ExA](https://github.com/wendellAdriel/laravel-exa) - `wendellAdriel/laravel-exa` - 💾 39 installs
 
-### CMS - Official Installs
+### CMS - Official Installers
 - [Statamic](https://github.com/statamic/statamic) - `statamic/statamic` - 💾 133,927 installs
 - [Genesis](https://github.com/thedevdojo/genesis) - `devdojo/genesis` - 💾 8,776 installs
-- [Filament Zeus starters](https://github.com/lara-zeus/zeus) - `lara-zeus/zeus` - 💾 779 installs
-- [Filament](https://github.com/tnylea/filamentapp) - `tnylea/filamentapp` - 💾 58 installs
 - [Svelte](https://github.com/oseughu/svelte-starter-kit) - `oseughu/svelte-starter-kit` - 💾 11 installs
 
-### CMS - Community Installs/Enhancers
-[COMMUNITY_CMS_WRAPPERS]
+### CMS - Community Installers/Enhancers
+- [Filament Zeus starters](https://github.com/lara-zeus/zeus) - `lara-zeus/zeus` - 💾 779 installs
+- [Filament](https://github.com/tnylea/filamentapp) - `tnylea/filamentapp` - 💾 58 installs
 
 ### SAAS Stater Kits
 - [Wave](https://github.com/thedevdojo/wave) - `devdojo/wave` - 💾 298 installs
