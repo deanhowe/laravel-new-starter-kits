@@ -112,6 +112,11 @@
                 "repo": "joshcirre/fission"
             },
             {
+                "title": "Justd Starter Kit",
+                "package": "justdlabs/inertia.ts",
+                "repo": "justd/laravel"
+            },
+            {
                 "title": "Laravel AdminTW",
                 "package": "dcblogdev/laravel-admintw",
                 "repo": "dcblogdev/laravel-admintw"
