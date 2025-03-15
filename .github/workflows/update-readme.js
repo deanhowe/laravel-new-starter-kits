@@ -139,14 +139,14 @@ async function updateReadme() {
     console.log('Generated README content (excerpt):', readme.substring(0, 500) + '...');
     console.log('Official list generated:', officialList);
 
-    console.log('Livewire list generated:', communityListLivewire);
-    console.log('React list generated:', communityListReact);
-    console.log('Vue list generated:', communityListVue);
-    console.log('API list generated:', communityListAPI);
-    console.log('Official CMS list generated:', communityListCMSOfficial);
-    console.log('Community CMS list generated:', communityListCMSCommunity);
-    console.log('SASS list generated:', communityListSAAS);
-    console.log('Misc. list generated:', communityListOther);
+    // console.log('Livewire list generated:', communityListLivewire);
+    // console.log('React list generated:', communityListReact);
+    // console.log('Vue list generated:', communityListVue);
+    // console.log('API list generated:', communityListAPI);
+    // console.log('Official CMS list generated:', communityListCMSOfficial);
+    // console.log('Community CMS list generated:', communityListCMSCommunity);
+    // console.log('SASS list generated:', communityListSAAS);
+    // console.log('Misc. list generated:', communityListOther);
 
     // Write updated README
     fs.writeFileSync('README.md', readme);
