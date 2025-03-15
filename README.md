@@ -6,11 +6,9 @@
     <img src="./screenshot.png" alt="laravel new screenshot" width="100%" height="auto" />
 </div>
 
----
+
 
 Using the [Laravel installer](https://laravel.com/docs/installation#installing-php) developers can pass the `--using` flag to the `laravel new` command, and install any community starter template. Below is a list of the available templates.
-
----
 
 ## Official Starter Kits
 
@@ -32,10 +30,14 @@ laravel new my-app --using=laravel/react-starter-kit
 laravel new my-app --using=laravel/vue-starter-kit
 ```
 
-## Community Starter Kits
+---
 
 > [!IMPORTANT]
 > Be cautious when installing any starter. Be sure to do research and learn more about each project.
+
+---
+
+## Community Starter Kits
 
 ### Livewire
 - [TALL starter](https://github.com/mortenebak/tallstarter) - `mortenebak/tallstarter` - 💾 86 installs
